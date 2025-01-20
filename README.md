@@ -1,23 +1,22 @@
-# Zomato-Analyzing-Trends-With-Python
+# Zomato-Analyzing-Trends
+![Image](https://github.com/user-attachments/assets/7bf4787a-1e42-4cbf-a828-102a1a61b886)
 
 # Project Description: Zomato Analysis Using Python
-
 This project involves analyzing the Zomato dataset to uncover key insights into the restaurant industry using Python. The analysis focuses on understanding customer preferences, pricing trends, and restaurant performance to derive actionable insights. Key tasks include:
 
-# 1. Data Cleaning and Preparation:
+# Data Cleaning and Preparation:
 Cleaning and preprocessing the dataset to handle missing values, duplicates, and inconsistencies.
 
 
-# 2. Exploratory Data Analysis (EDA):
+# Exploratory Data Analysis (EDA):
 Visualizing and interpreting trends in ratings, cuisines, pricing  to understand customer behavior.
 
 
-# 3. Price Analysis:
+# Price Analysis:
 Examining the relationship between approximate cost for two people and factors like customer ratings .
 
 
-
-# 6. Visualization:
+# Visualization:
 Creating compelling visualizations using libraries like Matplotlib and Seaborn to present insights effectively.
 
 
